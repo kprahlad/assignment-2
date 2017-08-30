@@ -1,0 +1,11 @@
+#include<iostream>
+#include<math.h>
+using namespace std
+int main()
+{
+  float a,b,c;
+  cin>>a;
+  b=pow(a,-2);
+  c=pow(a,-5);
+  return 0;
+}
